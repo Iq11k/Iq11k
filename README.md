@@ -1,7 +1,7 @@
 ![](https://komarev.com/ghpvc/?username=Iq11k&color=green)
 
 
-### Hi there 👋 I'm Moch
+### Hi there 👋 I'm Rizqi
 
 
 - I’m currently studying in the Computer Science undergraduate program
