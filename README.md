@@ -4,7 +4,7 @@
 ### Hi there 👋 I'm Rizqi
 
 
-- I’m currently studying in the Computer Science undergraduate program
+- I’m currently studying Computer Science on Ahmad Dahlan University
 - IG : @rizqiardi_15
 
 <!--
